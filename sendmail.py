@@ -12,7 +12,7 @@ class rmail():
   	toaddr="name@email.com"
   	subject=" Mail Status"
   	body=" Mail Status"
-  	path="/opt/projects/bank/common/Scripts/Validate/"
+  	path="path"
   	filename="hi.txt"
         self.sendmail(fromaddr,toaddr,subject,body,path,filename) 
  
